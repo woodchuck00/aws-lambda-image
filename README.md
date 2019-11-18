@@ -147,7 +147,7 @@ To use the automated deployment scripts you will need to have
 [aws-cli installed and configured](http://docs.aws.amazon.com/cli/latest/userguide/installing.html).
 
 Deployment scripts are pre-configured to use some default values for the Lambda
-configuration. I you want to change any of those just use:
+configuration. If you want to change any of those just use:
 
 ```bash
 npm config set aws-lambda-image:profile default
